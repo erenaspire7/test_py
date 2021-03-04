@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="timechecker",
+    name="eren_timechecker",
     version="0.0.1",
     author="Edidiong Etuk",
     author_email="edeediong@gmail.com",
